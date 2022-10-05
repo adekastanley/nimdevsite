@@ -1572,3 +1572,7 @@ section {
 h3 {
 	margin-top: 1.3rem;
 }
+
+h3>p {
+	margin-top: 1.1rem;
+}
