@@ -621,8 +621,10 @@ section {
 	position: absolute;
 	top: 0;
 	right: 285px;
-	width: 865px;
+	/* width: 865px; */
+	width: 800px;
 	height: 236px;
+
 	background: #301b55;
 	z-index: 9;
 	transform-origin: top right;
@@ -1567,6 +1569,6 @@ section {
 	color: #28262d;
 }
 
-h4 {
+h3 {
 	margin-top: 1.3rem;
 }
