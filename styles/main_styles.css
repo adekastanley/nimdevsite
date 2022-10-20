@@ -1477,7 +1477,10 @@ section {
 .footer {
 	padding-top: 99px;
 	padding-bottom: 82px;
+	/* background-color: red; */
 }
+
+/* .footer_intro {} */
 
 .footer_logo {
 	padding-left: 0px;
@@ -1575,4 +1578,32 @@ h3 {
 
 .prob-p {
 	margin-top: 1.3rem;
+}
+
+.topTextSpan {
+	width: 70%;
+	background-color: #000;
+	display: flex;
+	/* justify-items: center; */
+	position: relative;
+
+
+
+}
+
+.textP {
+	width: 70%;
+	position: relative;
+	left: 10%;
+}
+
+.spanTitle {
+	position: relative;
+	left: 10%;
+	width: 80%;
+}
+
+.textP1 {
+	color: white;
+
 }
